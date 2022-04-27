@@ -1,4 +1,4 @@
-### Practice 3
+### Practice 1
 
 #The excel file is loaded
 stats <- read.csv("top2000_anime.csv", header=TRUE) 
