@@ -81,4 +81,4 @@ ggplot() +
 <img alt="Imagen 2" src="./../../practices/practice1/img/img2.png">
 
 # Conclusion
-In conclusion, the internship was successfully completed by me and my colleague, we could perceive that the data of Years of Experience and Salary are associated, since the more years of experience the collaborator has a higher salary
+In conclusion, the practice was executed successfully, we can perceive that the YearsExperience and Salary data are associated, since the more years of experience the more salary the employee has
