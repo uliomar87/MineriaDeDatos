@@ -34,7 +34,7 @@ s + geom_histogram(binwidth = 10, aes(fill=Type), color="Black") + theme_dark()
 ```
 
 
-##Examen
+Examen
 
 ```R
 
