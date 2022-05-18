@@ -35,6 +35,7 @@ s + geom_histogram(binwidth = 10, aes(fill=Type), color="Black") + theme_dark()
 
 
 ##Examen
+
 ```R
 
 #Create a new project in Rstudio and put the file(Project-Data.csv) inside the project folder.
