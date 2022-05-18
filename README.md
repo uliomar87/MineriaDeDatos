@@ -1,6 +1,8 @@
 # MineriaDeDatos
 
-### Practice 1
+## Practice 1
+
+```R
 
 #The excel file is loaded
 stats <- read.csv("top2000_anime.csv", header=TRUE) 
@@ -29,3 +31,4 @@ v + geom_histogram(binwidth = 10, aes(fill=Type), color="Black") + facet_grid(Ty
 
 s <- ggplot(data = top_anime, aes(x=Popularity.Rank))
 s + geom_histogram(binwidth = 10, aes(fill=Type), color="Black") + theme_dark()
+```
