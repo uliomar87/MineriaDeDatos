@@ -22,7 +22,7 @@
 
 <H2><p align="Center">PROFESOR: JOSE CHRISTIAN ROMERO HERNANDEZ</p></H2>
 
-<H2><p align="Center">TRABAJO: Practica 1</p></H2>
+<H2><p align="Center">TRABAJO: Práctica 1 - Unidad 3</p></H2>
 
 
 <br>
