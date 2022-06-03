@@ -8,11 +8,11 @@
 >> * [EXAM ](https://github.com/uliomar87/MineriaDeDatos/blob/unit1/evaluation/ExamenR.R)
 
  >## UNIT 2
->> * [PRACTICE 1 ](https://github.com/uliomar87/MineriaDeDatos/blob/unit2/practices/Practica1.R)
->> * [EXAM ](https://github.com/uliomar87/MineriaDeDatos/blob/unit2/exam/Examen_2.r)
+>> * [PRACTICE 1 ](https://github.com/uliomar87/MineriaDeDatos/blob/unit2/practices/practice1.md)
+>> * [EXAM ](https://github.com/uliomar87/MineriaDeDatos/blob/unit2/exam/exam.md)
 
  >## UNIT 3
->> * [PRACTICE 1 ](https://github.com/uliomar87/MineriaDeDatos/tree/unit3/practices/practice1)
+>> * [PRACTICE 1 ](https://github.com/uliomar87/MineriaDeDatos/blob/unit3/practices/practice1/README.md)
 >> * [PRACTICE 2 ](https://github.com/uliomar87/MineriaDeDatos/blob/unit3/practices/practice2/practice2.md)
 >> * [PRACTICE 3 ](https://github.com/uliomar87/MineriaDeDatos/blob/unit3/practices/practice3/practice3.md)
 >> * [PRACTICE 4 ](https://github.com/uliomar87/MineriaDeDatos/blob/unit3/practices/practice4/practice4.md)
