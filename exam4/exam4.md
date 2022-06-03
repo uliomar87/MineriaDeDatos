@@ -53,7 +53,7 @@ plot(1:10,
      ylab = 'WCSS')
 
 ```
-<img alt="Imagen 1" src="">
+<img alt="Imagen 1" src="https://github.com/uliomar87/MineriaDeDatos/blob/unit4/exam4/img/1.PNG?raw=true">
 
 
 ```r
@@ -85,4 +85,4 @@ clusplot(dataset,
          ylab = 'length')
 
 ```
-<img alt="Imagen 2" src="">
+<img alt="Imagen 2" src="https://github.com/uliomar87/MineriaDeDatos/blob/unit4/exam4/img/2.PNG?raw=true">
