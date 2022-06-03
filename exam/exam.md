@@ -77,7 +77,7 @@ u <- ggplot(movies, aes(x=Genre, y=GrossUS,
 u + geom_boxplot()  
 ```
 
-<img alt="Imagen1 " src=" ">
+<img alt="Imagen1 " src="https://github.com/uliomar87/MineriaDeDatos/blob/unit2/exam/img/1.png?raw=true">
 
 ```R
 
@@ -87,7 +87,7 @@ u + geom_boxplot()
 u +  geom_jitter() + geom_boxplot(size=0.3,color="Black") 
 
 ```
-<img alt="Imagen2 " src=" ">
+<img alt="Imagen2 " src="https://github.com/uliomar87/MineriaDeDatos/blob/unit2/exam/img/2.PNG?raw=true">
 
 ```R
 # Format our boxplot
@@ -101,7 +101,7 @@ u + geom_jitter(shape=20) + geom_boxplot(size=0.3,alpha=0.5,color="Black",outlie
 
 ```
 
-<img alt="Imagen3 " src=" ">
+<img alt="Imagen3 " src="https://github.com/uliomar87/MineriaDeDatos/blob/unit2/exam/img/3.PNG?raw=true">
 
 
 
