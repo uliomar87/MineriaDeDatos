@@ -52,6 +52,12 @@ plot(1:10,
      xlab = 'Number of clusters',
      ylab = 'WCSS')
 
+```
+<img alt="Imagen 1" src="">
+
+
+```r
+
 #Establecer nuestra semilla de aleatoriedad
 set.seed(29)
 
@@ -79,3 +85,4 @@ clusplot(dataset,
          ylab = 'length')
 
 ```
+<img alt="Imagen 2" src="">
