@@ -43,6 +43,9 @@ u <- ggplot(movies, aes(x=Genre, y=GrossUS,
 # box plot
 u + geom_boxplot()  
 
+<img alt="Imagen " src="https://github.com/uliomar87/MineriaDeDatos/blob/unit3/practices/practice1/img/img1.png?raw=true">
+
+
 
 #overlay all the points for that group on each boxplot to get an idea of the sample size
 #This can be achieved by adding the geom_jitter
