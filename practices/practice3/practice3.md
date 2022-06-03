@@ -73,15 +73,29 @@ library(ggplot2)
 ggplot(training_set, aes(x=EstimatedSalary, y=Purchased)) + geom_point() + 
   stat_smooth(method="glm", method.args=list(family="binomial"), se=FALSE)
 
+```
+
+<img alt="Imagen 1" src="">
+
+```R
 ggplot(training_set, aes(x=Age, y=Purchased)) + geom_point() + 
   stat_smooth(method="glm", method.args=list(family="binomial"), se=FALSE)
+```
+<img alt="Imagen 2" src="">
 
+```R
 ggplot(test_set, aes(x=EstimatedSalary, y=Purchased)) + geom_point() + 
   stat_smooth(method="glm", method.args=list(family="binomial"), se=FALSE)
+```
+<img alt="Imagen 3" src="">
 
+```R
 ggplot(test_set, aes(x=Age, y=Purchased)) + geom_point() + 
   stat_smooth(method="glm", method.args=list(family="binomial"), se=FALSE)
+```
+<img alt="Imagen 4" src="">
 
+```R
 # Visualization the Training set result
 # install.packages('ElemStatLearn') No work for me, 
 # manual mode. Go to this URL https://cran.r-project.org/src/contrib/Archive/ElemStatLearn/
@@ -103,6 +117,11 @@ plot(set[, -3],
 contour(X1, X2, matrix(as.numeric(y_grid), length(X1), length(X2)), add = TRUE)
 points(grid_set, pch = '.', col = ifelse(y_grid == 1, 'springgreen3', 'tomato'))
 points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
+```
+<img alt="Imagen 5" src="">
+
+
+```R
 
 # Visualising the Test set results
 library(ElemStatLearn)
@@ -121,10 +140,8 @@ contour(X1, X2, matrix(as.numeric(y_grid), length(X1), length(X2)), add = TRUE)
 points(grid_set, pch = '.', col = ifelse(y_grid == 1, 'springgreen3', 'tomato'))
 points(set, pch = 21, bg = ifelse(set[, 3] == 1, 'green4', 'red3'))
 
-
-
-
 ```
+<img alt="Imagen 6" src="">
 
 
 # Conclusion

@@ -106,6 +106,7 @@ training_set
 backwardElimination(training_set, SL)
 
 ```
+<img alt="Imagen 1" src="">
 
 
 # Conclusion
