@@ -106,7 +106,7 @@ training_set
 backwardElimination(training_set, SL)
 
 ```
-<img alt="Imagen 1" src="">
+<img alt="Imagen 1" src="https://github.com/uliomar87/MineriaDeDatos/blob/unit3/practices/practice2/1.PNG?raw=true">
 
 
 # Conclusion
