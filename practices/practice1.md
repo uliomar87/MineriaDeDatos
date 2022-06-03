@@ -49,7 +49,7 @@ library(ggplot2)
 #Dispersion diagram 
 ggplot(data=top_anime, aes(x=Score.Rank, y=Popularity.Rank, color=Type)) + geom_point()
 ```
-<img alt="Imagen4 " src=" ">
+<img alt="Imagen4 " src="https://github.com/uliomar87/MineriaDeDatos/blob/unit2/exam/img/4.PNG?raw=true">
 
 
 ```R
@@ -58,7 +58,7 @@ ggplot(data=top_anime, aes(x=Score.Rank, y=Popularity.Rank, color=Type)) + geom_
 v <- ggplot(top_anime, aes(x=Popularity.Rank))
 v + geom_histogram(binwidth = 10, aes(fill=Type), color="Black") + facet_grid(Type~., scales=”free”)
 ```
-<img alt="Imagen5 " src=" ">
+<img alt="Imagen5 " src="https://github.com/uliomar87/MineriaDeDatos/blob/unit2/exam/img/5.PNG?raw=true">
 
 
 ```R
@@ -67,4 +67,4 @@ v + geom_histogram(binwidth = 10, aes(fill=Type), color="Black") + facet_grid(Ty
 s <- ggplot(data = top_anime, aes(x=Popularity.Rank))
 s + geom_histogram(binwidth = 10, aes(fill=Type), color="Black") + theme_dark()
 ```
-<img alt="Imagen6 " src=" ">
+<img alt="Imagen6 " src="https://github.com/uliomar87/MineriaDeDatos/blob/unit2/exam/img/6.PNG?raw=true">
