@@ -86,3 +86,10 @@ clusplot(dataset,
 
 ```
 <img alt="Imagen 2" src="https://github.com/uliomar87/MineriaDeDatos/blob/unit4/exam4/img/2.PNG?raw=true">
+
+#Analysis and conclusion
+
+In this practice we use K-means, which is an unsupervised classification algorithm (clustering) that groups objects into k groups based on their characteristics, the grouping is done by minimizing the sum of distances between each object and the centroid of its group or cluster .
+To put the algorithm into practice, the iris.csv database was used, its objective is to demonstrate that if there is similarity in the data, they are grouped based on their characteristics. Iris flowers are divided into three species "setosa", "virginica" and "versicolor", with characteristics of length and width of the "petal" and "sepal" and there are 50 data.
+
+Analyzing the graph made by R studio we can highlight that the virginica and versicolor flower have a combination, this is due to the fact that their dimensions are similar. However, the sectose flower did not find semilitudes and this causes the data to be found alone in an ellipse.
